@@ -20,7 +20,7 @@ const About = () => {
            and design. I also develop websites mixing technology with art. Growing up between different cultures, I have always found inspiration in the intersection of traditions, emotions, and storytelling.
            I have always been fascinated by how technology can be used creatively, and I strive to combine my artistic
               vision with modern digital tools. I aim to create meaningful experiences that engage the mind and the senses, 
-              while pushing the boundaries of both art and technology.
+              while pushing the boundaries of art.
         </p>
 
         <button onClick={toggleShowMore} className={classes.readMoreButton}>

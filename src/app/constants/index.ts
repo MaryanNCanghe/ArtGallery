@@ -101,4 +101,4 @@ export const projects = [
  
   // Add more projects here...
 ];
-export const categories = ['All', 'Painting', 'Drawings','Photography','Videos', 'Sketch', 'Music', ];
+export const categories = ['All', 'Painting', 'Drawings','Photography','Videos', 'Sketch', 'Music', 'Design', ];
