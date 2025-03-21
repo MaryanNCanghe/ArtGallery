@@ -61,7 +61,7 @@ export const projects = [
     title:'They All Touched Me',
     category: 'Painting',
     imageUrl: heads,
-    description: 'These faces represent the people I allowed to touch me, not just physically but emotionally and mentally. Each one carries a unique story, a moment that left a mark on me, shaping my perceptions and feelings. The piercing stares convey both the power and fragility of letting someone get close, capturing how each interaction left behind a different sensation, sometimes warmth, sometimes pain.',
+    description: 'These faces represent the people I allowed to touch me, emotionally and mentally. Each one carries a unique story, a moment that left a mark on me, shaping my perceptions and feelings. The piercing stares convey both the power and fragility of letting someone get close, capturing how each interaction left behind a different sensation, sometimes warmth, sometimes pain.',
     
   },
   {
@@ -85,7 +85,7 @@ export const projects = [
     title:'Innocence',
     category: 'Painting',
     imageUrl: innocence,
-    description: 'This painting is a bold and unflinching declaration of liberation and defiance. It features a raw and vulnerable self-portrait, my body exposed, legs wide open, yet my head is concealed beneath a nun´s head covering. The stark contrast between nudity and religious symbolism challenges the viewer to confront the tension between purity and human desire. It symbolizes my journey from repression to self-acceptance, confronting the guilt and shame that religion imprinted on me. The posture, unapologetically open, is a rebellious statement: I am not the angel they wanted me to be, and I refuse to be',
+    description: 'This painting is a bold and unflinching declaration of liberation and defiance. It features a raw and vulnerable portrait, exposed body, legs wide open, yet the head is concealed beneath a nun´s head covering. The stark contrast between nudity and religious symbolism challenges the viewer to confront the tension between purity and human desire. It symbolizes my journey from repression to self-acceptance, confronting the guilt and shame that religion imprinted. The posture, unapologetically open, is a rebellious statement: I am not the angel, and I refuse to be',
     
   },
   
